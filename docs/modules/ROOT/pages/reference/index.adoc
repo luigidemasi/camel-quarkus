@@ -51,7 +51,7 @@ Stable | 1.0.0 | Call external HTTP services using Async Http Client.
 Stable | 1.0.0 | Exchange data with external Websocket servers using Async Http Client.
 
 |  xref:reference/extensions/atmos.adoc[Atmos]  | camel-quarkus-atmos | [.camel-element-JVM]##JVM## +
-Preview | 1.1.0 | Integract with EMC's ViPR object data services using the Atmos Client.
+Preview | 1.1.0 | Integrate with EMC's ViPR object data services using the Atmos Client.
 
 |  xref:reference/extensions/atom.adoc[Atom]  | camel-quarkus-atom | [.camel-element-JVM]##JVM## +
 Preview | 1.1.0 | Poll Atom RSS feeds.
@@ -816,10 +816,10 @@ Preview | 1.1.0 | Transform messages using a Velocity template.
 Stable | 1.0.0 | Send and receive messages to/from Vert.x Event Bus.
 
 |  xref:reference/extensions/vertx-http.adoc[Vert.x HTTP Client]  | camel-quarkus-vertx-http | [.camel-element-Native]##Native## +
-Stable | 1.1.0 | Camel HTTP client support with Vert.x
+Stable | 1.1.0 | Send requests to external HTTP servers using Vert.x
 
 |  xref:reference/extensions/vertx-websocket.adoc[Vert.x WebSocket]  | camel-quarkus-vertx-websocket | [.camel-element-Native]##Native## +
-Stable | 1.1.0 | Camel WebSocket support with Vert.x
+Stable | 1.1.0 | Expose WebSocket endpoints and connect to remote WebSocket servers using Vert.x
 
 |  xref:reference/extensions/vm.adoc[VM]  | camel-quarkus-vm | [.camel-element-Native]##Native## +
 Stable | 0.3.0 | Call another endpoint in the same CamelContext asynchronously.
